@@ -26,7 +26,7 @@ Calculadora feita utilizando mobile-first para aprimoração de estudos.<br>
 
 <br><br>
 
-<h6><a href="https://victorhugolessa.github.io/calculadora/">Rodando</a></h6>
+<h6><a href="https://victorhugolessa.github.io/calculator/">Rodando</a></h6>
 
 <h4 text-align="center">
     Feito com 💜 by <a href="https://www.linkedin.com/in/victorhugolessa/" target="_blank">Victor Hugo</a>
